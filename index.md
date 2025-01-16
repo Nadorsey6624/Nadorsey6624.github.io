@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Hey I am Noah 
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This is my first time devling into the world of code. I will use this as a journal for my coding milestones.
